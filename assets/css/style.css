@@ -766,6 +766,12 @@ section {
   min-height: 300px;
 }
 
+.about .video-box1 {
+  background: url("../img/about2.png") center center no-repeat;
+  background-size: contain;
+  min-height: 300px;
+}
+
 .about .play-btn {
   width: 94px;
   height: 94px;
@@ -997,7 +1003,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/cta-bg.jpg") no-repeat;
+  background: url("../img/Map-Explorer.png") no-repeat;
   background-position: center top right;
   background-size: cover;
   position: relative;
